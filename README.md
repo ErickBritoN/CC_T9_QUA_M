@@ -31,6 +31,11 @@ Aplicar os conhecimentos adquiridos na disciplina de Modelagem e Simulação, al
 * Um estudo de caso sobre aplicação de Modelagem e Simulação no formato de Estudo de Caso ou de Artigo ou;
 * Um *software* para resolução de algum problema de Modelagem e Simulação.
 
+O tema é livre. Entratanto, seguem algumas ideias:
+* Avanço e tratamento do COVID-19.
+* Filas para Transplantes.
+* Roterização ou Acesso no transporte público (ônibus, Metrô e Trem).
+* Logística para entrega de produtos (Vide privatização dos Correios).
 ## Grupos
 Os grupos podem conter até 12 discientes. Serão permitidos também trabalhos individuais.
 
