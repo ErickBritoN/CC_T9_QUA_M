@@ -37,7 +37,7 @@ O tema para o desenvolvimento do trabalho **é livre**. Entretanto, seguem algum
 * Roterização ou Acesso no transporte público (ônibus, Metrô e Trem).
 * Logística para entrega de produtos (Vide privatização dos Correios).
 ## Grupos
-Os grupos podem conter até 12 discientes. Serão permitidos também trabalhos individuais.
+Os grupos podem ser formados por até 12 discentes, embora seja permitido trabalhos individuais.
 
 ## Formato e entrega
 Para Estudo de Caso e Artigo, o documento deverá seguir as orientações da ABNT (disponível na biblioteca digital da Uninove). 
