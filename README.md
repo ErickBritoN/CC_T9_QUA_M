@@ -22,7 +22,7 @@ Para acessá-los, basta utilizar o RA e Senha da Central do Aluno
 * [Opção 2](https://simulacao.net/livros/) - Diversos livros online sobre Modelagem e Simulação (Inglês)
 
 ## Repositório de Códigos (Github)
-* [Tutorial](https://github.com/geracaoti/comandos-git)
+* [Tutorial](https://github.com/geracaoti/comandos-git) 
  
 # PROJETO EM SISTEMAS INTELIGENTES
 
