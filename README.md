@@ -18,8 +18,9 @@ Os livros abaixo estão disponíveis em formato digital com acesso através da B
 
 Para acessá-los, basta utilizar o RA e Senha da Central do Aluno
 
-* [Opção 1](http://www.inf.ufsc.br/~freitas.filho/index/livro/livro.html) - Introdução a Modelagem e Simulação de Sistemas
-* [Opção 2](https://simulacao.net/livros/) - Diversos livros online sobre Modelagem e Simulação (Inglês)
+* [Opção 1](https://learning.oreilly.com/library/view/building-algorithmic-trading/9781118778883/) - Building Algorithmic Trading Systems: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading
+* [Opção 2](https://learning.oreilly.com/library/view/introduction-to-stochastic/9781786304841/) - Introduction to Stochastic Processes and Simulation
+* [Opção 3](https://learning.oreilly.com/library/view/handbook-in-monte/9780470531112/) - Handbook in Monte Carlo Simulation: Applications in Financial Engineering, Risk Management, and Economics
 
 ## Repositório de Códigos (Github)
 * [Tutorial](https://github.com/geracaoti/comandos-git) 
